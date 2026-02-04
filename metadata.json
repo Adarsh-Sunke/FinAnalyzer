@@ -1,0 +1,5 @@
+{
+  "name": "FinAnalyzer Pro",
+  "description": "A dark-themed, ultra-fast financial analysis platform utilizing Gemini for precise entity extraction and ratio computation from financial PDFs.",
+  "requestFramePermissions": []
+}
